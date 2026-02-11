@@ -1,4 +1,4 @@
-# QUAL2000 Todo Example Frontend
+# Todo Example Frontend
 
 React + Vite frontend for a Todo app used in QUAL2000. This UI connects to a separate backend API and supports creating, listing, updating, and deleting tasks.
 
